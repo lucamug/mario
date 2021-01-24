@@ -1,5 +1,9 @@
 # Mario
 
+Demo: https://lucamug.github.io/mario/
+
+## Development
+
 ```
 git clone https://github.com/lucamug/mario.git
 cd mario
